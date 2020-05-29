@@ -45,7 +45,8 @@
 		<module>spring-cloud-gcp-bigquery</module>
 		<module>spring-cloud-gcp-security-firebase</module>
 		<module>spring-cloud-gcp-secretmanager</module>
-	</modules>
+    <module>spring-cloud-gcp-metrics-sample</module>
+  </modules>
 
 	<properties>
 		<maven.compiler.source>1.8</maven.compiler.source>
